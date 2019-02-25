@@ -1,0 +1,9 @@
+1.) Eclipse
+2.) Maven Instal :- 1.) Download 2.) M2_Home 3.) MAVEN_HOME 4.) Path Var 
+3.) Java Should be installed
+
+
+4.) create Maven Project 
+5.) Add dependencies in Pom.xml ..with latest version of selenium --google maven dependices and then selenium java
+    1.) selenium Java
+    2.) JUNIT
